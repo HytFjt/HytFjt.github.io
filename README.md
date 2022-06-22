@@ -1,6 +1,5 @@
 # HytFjt.github.io
 HytFjt's website
-m<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
